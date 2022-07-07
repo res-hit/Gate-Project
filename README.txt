@@ -1,3 +1,5 @@
+A Java based QR code checker for automated event system management
+
 After building with maven:
 
 - copy the SNAPSHOT jar into bin folder
