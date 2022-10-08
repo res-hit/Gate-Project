@@ -63,6 +63,40 @@
         </repository>
     </repositories>
     <dependencies>
+    	<!-- https://mvnrepository.com/artifact/org.bytedeco/openblas-platform -->
+		<dependency>
+		    <groupId>org.bytedeco</groupId>
+		    <artifactId>openblas-platform</artifactId>
+		    <version>0.3.5-1.5</version>
+		</dependency>
+
+    	<!-- https://mvnrepository.com/artifact/org.bytedeco/opencv -->
+		<dependency>
+		    <groupId>org.bytedeco</groupId>
+		    <artifactId>opencv</artifactId>
+		    <version>4.5.5-1.5.7</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.bytedeco/javacv -->
+		<dependency>
+		    <groupId>org.bytedeco</groupId>
+		    <artifactId>javacv</artifactId>
+		    <version>1.5.7</version>
+		<!-- https://mvnrepository.com/artifact/org.bytedeco/javacv-platform -->
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.bytedeco/javacv-platform -->
+		<dependency>
+		    <groupId>org.bytedeco</groupId>
+		    <artifactId>javacv-platform</artifactId>
+		    <version>1.5.7</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.bytedeco/openblas -->
+		<dependency>
+		    <groupId>org.bytedeco</groupId>
+		    <artifactId>openblas</artifactId>
+		    <version>0.3.6-1.5.1</version>
+		</dependency>
+
         <dependency>
             <groupId>org.glassfish.jersey.containers</groupId>
             <artifactId>jersey-container-servlet</artifactId>
