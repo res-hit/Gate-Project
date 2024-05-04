@@ -13,4 +13,4 @@ In case of general purpose machine deployment, i have updated properly the maven
 
 *The client supports object detection thanks to openCV; this was possible thanks to raspberry pi usage, can not be done on other kind of embedded systems*
 *typically in IoT systems(having large bandwidth) image is sent across the network and processed by a backend(normally today is performed in the cloud)*
-*I can consider this development outdated or with this specific use case, i.e. having a general purpose host or a powerful embdedded machine(as raspberry)*
+*I can consider this development outdated for with this specific use case, i.e. having a general purpose host or a powerful embdedded machine(as raspberry)*
